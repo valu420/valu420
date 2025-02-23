@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Valu and I'm just a passerby....</h2>
+<h2 align="left">Hi! I'm Valu</h2>
 
 ###
 
