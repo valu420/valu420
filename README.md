@@ -33,7 +33,7 @@ When I’m not coding, I enjoy exploring design ideas, movies, and technology tr
 ---
 
 ### 📫 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina_Sánchez-blue?style=flat-square&logo=linkedin)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentina_Sánchez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/valentina-s%C3%A1nchez-castrill%C3%B3n-72b0202b4/)  
 [![GitHub](https://img.shields.io/badge/GitHub-ValentinaSanchez-black?style=flat-square&logo=github)](https://github.com/valu420)
 
 ---
