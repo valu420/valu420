@@ -1,6 +1,6 @@
 # 🌟 Hi there, I'm Valentina Sánchez 👋
 
-🎓 **Systems Engineering student at Universidad del Valle** (6th semester)  
+🎓 **Systems Engineering student at Universidad del Valle** (7th semester)  
 💻 Passionate about **web development** and crafting creative digital experiences.  
 ✨ I enjoy working with **Python**, **JavaScript**, and **React**, and exploring **functional programming** concepts.  
 🚀 Always learning, building, and growing as a developer.
